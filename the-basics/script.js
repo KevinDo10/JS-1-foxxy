@@ -105,3 +105,4 @@ console.log(num.toString()); // Converts and outputs '123' as a string
 
 let convertedNumber = num.toString();
 console.log(convertedNumber); // Outputs the string '123'
+
